@@ -1,4 +1,3 @@
-Certainly, providing clear instructions on how to run your project locally in your README.md file is essential for making your project accessible to others. Here's a template for creating the README.md file with instructions:
 
 ```markdown
 # Movie Discovery Web Application
