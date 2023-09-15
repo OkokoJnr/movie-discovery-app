@@ -5,6 +5,8 @@ import MovieList from './Components/MovieList';
 import MovieDetails from './Components/MovieDetails';
 import ErrorPage from './Components/ErrorPage';
 import FeaturedImage from './Components/FeaturedImage';
+import Footer from './Components/Footer';
+import "./App.css"
 
 function App() {
   const [movies, setMovies] = useState([]);
@@ -67,6 +69,7 @@ function App() {
         </Routes>
       </div>
     </Router>
+      <Footer/>
         </div>
   );
 }

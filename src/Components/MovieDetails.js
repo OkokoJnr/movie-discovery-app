@@ -14,6 +14,7 @@ function MovieDetails() {
     })
     .then ((data)=>{
       setMovie(data)
+      console.log(data)
     })
     
     // Set the movie data in the state
